@@ -1,6 +1,7 @@
 body {
     background-color: rgb(214, 227, 255);
 }
+
 a {
     padding: 10px;
     color: black;
@@ -11,6 +12,7 @@ img {
     width: 500px;
     height:auto;
 }
+
 .center {
     display: block;
     margin-left: auto;
