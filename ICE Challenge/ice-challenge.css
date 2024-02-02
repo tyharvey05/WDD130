@@ -1,0 +1,63 @@
+.garamond {
+font-family: 'Cormorant Garamond', serif;
+}
+.dark {
+font-family: 'Darker Grotesque', sans-serif;
+}
+h1.dark {
+	font-size:60px;
+	color:white;
+}
+body{
+	background-color:#5ca0d7;
+}
+.top {
+	color:white;
+}
+.top h1 {
+	text-align: center;
+}
+.top h1:hover {
+	color: black;
+}
+.top p {
+	font-size:1.25em;
+	line-height:1.6em;
+	text-align: center;
+}
+.top p.dark {
+	font-size:1.4em;
+	font-weight:bold;
+	margin-top:19px;
+}
+.dark span {
+	letter-spacing:-2px;
+	display:inline-block;
+	width:50px;
+}
+main {
+	max-width:600px;
+	margin: 0 auto;
+}
+ol li {
+	font-weight:600;
+    font-family: 'Darker Grotesque', sans-serif;
+    letter-spacing:-1px;		
+    font-size:23px;
+	line-height: 2em;
+}
+img {
+	display: block;
+	width: 40%;
+	margin: 0 auto;
+}
+.quote {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-family: 'Cormorant Garamond', serif;
+}
+.name {
+	text-align: center;
+	font-family: 'Darker Grotesque', sans-serif;
+}
